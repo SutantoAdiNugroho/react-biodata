@@ -38,7 +38,7 @@ function App() {
             <div className="info">
               <i className="icon ion-ios-chatboxes-outline"/>
               <div className="right-area">
-                <h5>adi.an836@gmail.com</h5>
+                <h5>adi.nugroho.an836@gmail.com</h5>
                 <h6>REPLY IN 24 HOURS</h6>
               </div>
             </div>
