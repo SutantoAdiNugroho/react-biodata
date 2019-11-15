@@ -9,7 +9,7 @@ function Body() {
     return(
           <section className="intro-section">
               <div className="heading-wrapper">
-                  <div className="row">
+                  <div style={{marginTop: "100px"}} className="row">
                       <div className="col-md-1 col-lg-2"></div>
                       <div className="col-md-10 col-lg-8">
                           <div className="intro">
